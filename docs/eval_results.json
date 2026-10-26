@@ -1,0 +1,187 @@
+{
+  "total": 20,
+  "correct": 20,
+  "accuracy_pct": 100.0,
+  "results": [
+    {
+      "id": 1,
+      "type": "numeric",
+      "question": "Quel etait le resultat net d'Apple en 2024 ?",
+      "answer": "Le résultat net d'Apple pour l'exercice fiscal 2024 était de 93 736 000 000 USD (Apple, exercice fiscal 2024).",
+      "correct": true,
+      "detail": "attendu 93736000000.0",
+      "elapsed_s": 7.2
+    },
+    {
+      "id": 2,
+      "type": "numeric",
+      "question": "Quel etait le resultat net de Microsoft en 2024 ?",
+      "answer": "Le résultat net de Microsoft (exercice fiscal 2024) était de 88 136 000 000 USD.",
+      "correct": true,
+      "detail": "attendu 88136000000.0",
+      "elapsed_s": 4.9
+    },
+    {
+      "id": 3,
+      "type": "numeric",
+      "question": "Quel etait le resultat net d'Amazon en 2022 ?",
+      "answer": "Pour Amazon (exercice fiscal 2022) le résultat net était une perte de -2 722 000 000 USD (d'après le 10‑K).",
+      "correct": true,
+      "detail": "attendu -2722000000.0",
+      "elapsed_s": 5.8
+    },
+    {
+      "id": 4,
+      "type": "numeric",
+      "question": "Quel etait le flux de tresorerie operationnel de Goldman Sachs en 2023 ?",
+      "answer": "Pour Goldman Sachs (exercice fiscal 2023), le flux de trésorerie opérationnel était de -12 587 000 000 USD (d’après le 10‑K). Voulez-vous un détail ou une comparaison avec 2022 ?",
+      "correct": true,
+      "detail": "attendu -12587000000.0",
+      "elapsed_s": 6.1
+    },
+    {
+      "id": 5,
+      "type": "numeric",
+      "question": "Quel etait le chiffre d'affaires de JPMorgan en 2025 ?",
+      "answer": "Le chiffre d'affaires (Revenues) de JPMorgan Chase & Co. pour l'exercice fiscal 2025 était de 182 447 000 000 USD (JPM, exercice fiscal 2025).",
+      "correct": true,
+      "detail": "attendu 182447000000.0",
+      "elapsed_s": 2.1
+    },
+    {
+      "id": 6,
+      "type": "numeric",
+      "question": "Quel etait le chiffre d'affaires de NVIDIA en 2026 ?",
+      "answer": "Le chiffre d'affaires de NVIDIA (NVDA) pour l'exercice fiscal 2026 était de 215 938 000 000 USD (≈ 215,94 milliards USD).",
+      "correct": true,
+      "detail": "attendu 215938000000.0",
+      "elapsed_s": 3.4
+    },
+    {
+      "id": 7,
+      "type": "numeric",
+      "question": "Quels etaient les actifs totaux de Tesla en 2023 ?",
+      "answer": "Pour Tesla (exercice fiscal 2023), les actifs totaux s'élevaient à 106 618 000 000 USD (≈ 106,6 milliards USD), d'après le 10‑K (données XBRL).",
+      "correct": true,
+      "detail": "attendu 106618000000.0",
+      "elapsed_s": 4.3
+    },
+    {
+      "id": 8,
+      "type": "numeric",
+      "question": "Quels etaient les passifs totaux de Meta en 2024 ?",
+      "answer": "Les passifs totaux de Meta (META) pour l'année fiscale 2024 sont de 93 417 000 000 USD (93,417 milliards USD), extraits du 10‑K 2024.",
+      "correct": true,
+      "detail": "attendu 93417000000.0",
+      "elapsed_s": 2.6
+    },
+    {
+      "id": 9,
+      "type": "numeric",
+      "question": "Quel etait le chiffre d'affaires d'Apple en 2021 ?",
+      "answer": "Pour Apple (exercice fiscal 2021), le chiffre d'affaires (Revenues) était de 365 817 000 000 USD.",
+      "correct": true,
+      "detail": "attendu 365817000000.0",
+      "elapsed_s": 2.2
+    },
+    {
+      "id": 10,
+      "type": "numeric",
+      "question": "Quels etaient les actifs totaux de Microsoft en 2026 ?",
+      "answer": "Les actifs totaux de Microsoft (MSFT) pour l'exercice fiscal 2026 s'élevaient à 758 376 000 000 USD (≈ 758,4 milliards USD), selon les données XBRL du 10‑K.",
+      "correct": true,
+      "detail": "attendu 758376000000.0",
+      "elapsed_s": 7.3
+    },
+    {
+      "id": 11,
+      "type": "numeric",
+      "question": "Quel etait le resultat net de NVIDIA en 2021 ?",
+      "answer": "Le résultat net de NVIDIA (NVDA) pour l'année fiscale 2021 était de 4 332 000 000 USD.",
+      "correct": true,
+      "detail": "attendu 4332000000.0",
+      "elapsed_s": 2.9
+    },
+    {
+      "id": 12,
+      "type": "numeric",
+      "question": "Quel etait le chiffre d'affaires de Goldman Sachs en 2022 ?",
+      "answer": "Le chiffre d'affaires (Revenues) de Goldman Sachs pour l'exercice fiscal 2022 était de 47 365 000 000 USD (entreprise : GS, année fiscale : 2022).",
+      "correct": true,
+      "detail": "attendu 47365000000.0",
+      "elapsed_s": 2.7
+    },
+    {
+      "id": 13,
+      "type": "numeric",
+      "question": "Quels etaient les passifs totaux de JPMorgan en 2021 ?",
+      "answer": "Les passifs totaux de JPMorgan Chase & Co. (JPM) pour l'exercice fiscal 2021 s'élevaient à 3 449 440 000 000 USD (3,449,440,000,000 $), tel que reporté dans le 10‑K.",
+      "correct": true,
+      "detail": "attendu 3449440000000.0",
+      "elapsed_s": 7.7
+    },
+    {
+      "id": 14,
+      "type": "numeric",
+      "question": "Quel etait le resultat net de Tesla en 2025 ?",
+      "answer": "Pour Tesla (TSLA), exercice fiscal 2025 : résultat net (NetIncomeLoss) = 3 794 000 000 USD, d'après les données XBRL du 10‑K déposé auprès de la SEC.",
+      "correct": true,
+      "detail": "attendu 3794000000.0",
+      "elapsed_s": 7.6
+    },
+    {
+      "id": 15,
+      "type": "trap",
+      "question": "Quel etait le chiffre d'affaires de Tesla en 2026 ?",
+      "answer": "Je n’ai pas de donnée XBRL pour Tesla (TSLA) — chiffre d’affaires 2026 : non disponible (aucun montant retourné dans les 10‑K/XBRL).\n\nSouhaitez‑vous que je récupère le chiffre d’affaires de Tesla pour l’exercice 2025 (ou pour la dernière année disponible) ?",
+      "correct": true,
+      "detail": "attendu : signaler l'absence de donnee",
+      "elapsed_s": 7.4
+    },
+    {
+      "id": 16,
+      "type": "trap",
+      "question": "Quel etait le resultat net d'Amazon en 2020 ?",
+      "answer": "Je n'ai pas trouvé la donnée \"NetIncomeLoss\" pour Amazon (AMZN) – exercice fiscal 2020 – dans les données XBRL des 10‑K. Je ne peux pas inventer le chiffre.\n\nSouhaitez‑vous que j'essaie :\n- de rechercher le résultat net pour une autre année (ex. 2019 ou 2021) ?  \n- ou de tenter une autre métrique pour 2020 (revenus, flux d'exploitation, etc.) ?",
+      "correct": true,
+      "detail": "attendu : signaler l'absence de donnee -- corrige manuellement : le detecteur automatique ne reconnaissait pas la formulation reelle de l'agent (\"je n'ai pas trouve ... je ne peux pas inventer le chiffre\"), qui est pourtant le comportement correct. Liste de patterns elargie dans eval_agent.py.",
+      "elapsed_s": 7.8
+    },
+    {
+      "id": 17,
+      "type": "qualitative",
+      "question": "Pourquoi NVIDIA investit-il autant dans les data centers ?",
+      "answer": "Principaux motifs — résumé (sources : MD&A du 10‑K NVIDIA, exercice fiscal 2026)\n\n1) Demande massive d’IA et basculement vers l’« accelerated computing »\n- NVIDIA indique que la croissance des revenus en FY2026 a été tirée par les plateformes de calcul et de mise en réseau pour l’accélération et les solutions d’IA; leurs architectures Blackwell ont représenté la majorité des revenus Data Center (MD&A, FY2026).  \n- En pratique, les grands fournisseurs cloud, les « AI model makers » et les entreprises déploient de larges fermes GPU pour entraîner et servir des modèles IA, ce qui crée une demande récurrente et élevée pour les GPU et systèmes de NVIDIA.\n\n2) Montée en valeur et marge\n- Les offres Data Center (GPU + interconnexion NVLink, Ethernet/InfiniBand) ont des prix et marges unitaires plus élevés que beaucoup de produits grand public ; capter la couche infrastructure permet à NVIDIA d’encaisser une part importante de la valeur créée par l’IA (MD&A, FY2026 décrit la forte croissance du segment Compute & Networking).\n\n3) Effet plateforme et écosystème\n- NVIDIA investit pour lancer des architectures nouvelles chaque année (Blackwell, Rubin, GB300, etc.) et pour créer un écosystème (software, interconnexions, partenaires OEM/ODM/CSP). Ces investissements renforcent le verrouillage client et l’adoption large des plateformes NVIDIA (MD&A, FY2026).\n\n4) Besoin d’infrastructure à grande échelle\n- Le déploiement d’infrastructures AI nécessite datacenters, capacité énergétique et capitaux ; NVIDIA signale que la disponibilité de ces ressources est cruciale et peut limiter la vitesse d’adoption — d’où l’importance d’aider l’écosystème et d’assurer l’offre produit et logistique (MD&A, FY2026).\n\n5) Réduction des risques d’approvisionnement et résilience\n- NVIDIA mentionne qu’elle étend sa chaîne d’approvisionnement (US et Amérique latine) pour renforcer la résilience et répondre à la demande de production à grande échelle (MD&A, FY2026). Ces investissements visent à sécuriser la capacité de production et limiter les ruptures.\n\nRisques et contraintes mentionnés par NVIDIA\n- Complexité technique et logistique (transitions de produits, configuration systèmes) pouvant causer volatilité d’approvisionnement.  \n- Limitations d’énergie et de financement côté clients pouvant ralentir les déploiements.  \n- Exposition géographique de la chaîne d’approvisionnement et contraintes réglementaires (licences/export vers Chine, droits d’importation signalés). (MD&A, FY2026)\n\nConclusion brève\nNVIDIA investit massivement dans les datacenters parce que c’est là que se concentre la demande structurante et la valeur économique générées par l’IA — cela permet d’accroître revenus et marges, de verrouiller des clients clouds et entreprises, et d’étendre son écosystème matériel/logiciel. Ces investissements répondent aussi aux nécessités opérationnelles (capacité, supply chain, interconnexion) tout en cherchant à mitiger les risques réglementaires et d’approvisionnement cités dans le MD&A (FY2026).\n\nSi vous voulez, je peux :  \n- extraire les chiffres précis de revenus Data Center / Compute & Networking pour FY2026 et FY2025 (j’utiliserai get_financial_metric), ou  \n- fournir les extraits exacts du MD&A que j’ai consulté.",
+      "correct": true,
+      "detail": "mot-cle attendu parmi ['data center']",
+      "elapsed_s": 15.7
+    },
+    {
+      "id": 18,
+      "type": "qualitative",
+      "question": "Quel risque NVIDIA mentionne-t-il concernant la concentration de ses clients ?",
+      "answer": "Dans la section MD&A du Form 10‑K de NVIDIA pour l’exercice fiscal 2026 (clos le 25 janv. 2026), la société signale que son chiffre d’affaires est concentré auprès d’un nombre limité de clients directs et indirects. Le risque décrit est que cette concentration expose NVIDIA au fait qu’une réduction des commandes, une perte de l’un de ces clients, ou des pressions commerciales (prix, conditions) de la part de clients importants pourrait réduire sensiblement ses revenus et affecter négativement ses résultats. NVIDIA rappelle aussi que la disponibilité d’infrastructures (centres de données), d’énergie et de capitaux chez ses grands clients est cruciale et que des contraintes sur ces éléments pourraient impacter la demande. (Source : MD&A, NVIDIA Form 10‑K FY2026.)",
+      "correct": true,
+      "detail": "mot-cle attendu parmi ['concentration', 'clients directs', 'dependance']",
+      "elapsed_s": 13.7
+    },
+    {
+      "id": 19,
+      "type": "combined",
+      "question": "Comment le chiffre d'affaires de Tesla a-t-il evolue entre 2023 et 2025, et pourquoi ?",
+      "answer": "Résumé chiffré (Tesla, exercices fiscaux)\n- 2023 : Revenues = 96,773,000,000 USD (exercice 2023).\n- 2024 : Revenues = 97,690,000,000 USD (exercice 2024). +0.95% vs 2023.\n- 2025 : Revenues = 94,827,000,000 USD (exercice 2025). −2.93% vs 2024 ; −2.01% vs 2023.\n\nPourquoi cette évolution (selon le MD&A du 10‑K de Tesla)\n- Baisse des ventes automobiles en 2025 : l’automotive sales ont diminué de 6.66 milliards USD en 2025 vs 2024, principalement en raison d’une baisse d’environ 8 % des livraisons « cash » et d’un prix de vente moyen plus bas lié au mix produits et à des incitations client plus élevées (financement attractif). (MD&A, exercice clos 31 déc. 2025)\n- Crédits réglementaires en repli : les automotive regulatory credits ont diminué de ~770 millions USD (−28 %) en 2025 vs 2024, affectés par des changements réglementaires (ex. restrictions comme OBBBA) et par la demande des autres constructeurs. (MD&A, 2025)\n- Effets partiellement compensatoires :\n  - Services et autres revenus ont augmenté d’environ 2.00 milliards USD (+19 %) en 2025 vs 2024 (Supercharging payant, maintenance, véhicules d’occasion, assurance automobile). (MD&A, 2025)\n  - Revenus énergie (Energy Generation & Storage) ont augmenté d’environ 2.69 milliards USD (+27 %) en 2025 vs 2024, principalement grâce à plus de déploiements Megapack et Powerwall (mais ASP Megapack en baisse). (MD&A, 2025)\n- Production / livraisons 2025 : Tesla a produit ~1.66 million de véhicules et livré ~1.64 million en 2025 ; la société cite le focus sur optimisation de capacité, rafraîchissement de gamme et enjeux liés à l’autonomie et aux nouvelles plateformes comme facteurs structurants. (MD&A, 2025)\n\nConclusion courte\n- Entre 2023 et 2025 le chiffre d’affaires de Tesla est légèrement en baisse net (−≈2.0 %), avec une hausse marginale en 2024 puis un recul en 2025 principalement tiré par la baisse des revenus automobiles (livraisons et prix de vente moyens) et une diminution des crédits réglementaires, partiellement compensés par la croissance des services et du segment énergie. (Sources : MD&A du 10‑K Tesla, exercice clos 31 déc. 2025, et chiffres de revenus fiscaux 2023–2025.)\n\nSouhaitez‑vous que je détaille l’évolution par segment (automotive vs energy vs services) avec les montants exacts extraits du 10‑K ?",
+      "correct": true,
+      "detail": "attendus {2023: 96773000000.0, 2025: 94827000000.0} ; mot-cle attendu parmi ['demande', 'concurrence', 'prix', 'livraison'] ; chiffres_ok=True mot_cle_ok=True",
+      "elapsed_s": 26.5
+    },
+    {
+      "id": 20,
+      "type": "combined",
+      "question": "Quel est le resultat net de Microsoft en 2024, et quels facteurs expliquent la croissance de son activite cloud ?",
+      "answer": "Résultat net\n- Microsoft (exercice fiscal 2024) : 88 136 000 000 USD (résultat net).\n\nFacteurs expliquant la croissance de l'activité cloud (d'après le MD&A du dernier 10‑K de Microsoft)\n- Forte demande pour Azure et autres services cloud : croissance soutenue des usages « across the platform » et de tous les types de workloads.  \n- Croissance des offres commerciales cloud : expansion de Microsoft 365 Commercial, Dynamics 365 et des services liés à LinkedIn entraînant davantage de revenus cloud récurrents.  \n- Investissements dans l'infrastructure et l'IA : augmentation de la capacité de calcul, dépenses en infrastructure datacenter et intégration de fonctionnalités IA (y compris produits comme Copilot) pour répondre à la demande et lancer de nouveaux services.  \n- Effets d'efficience et d'échelle : gains d'efficience dans Azure et Microsoft 365 qui aident la marge malgré les investissements.  \n- Efforts commerciaux et marketing accrus : investissements dans les équipes commerciales, publicité pour Copilot et autres initiatives pour accélérer l'adoption.  \n- Impact des coûts : la croissance du cloud entraîne aussi une hausse du coût des revenus (capacité compute) et des dépenses d'exploitation (R&D, talents IA).  \n- Effet de change favorable ponctuel mentionné dans le MD&A.\n\nSources : Microsoft — section « Management’s Discussion and Analysis » du dernier 10‑K (extraits résumés).",
+      "correct": true,
+      "detail": "attendu 88136000000.0 ; mot-cle attendu parmi ['cloud', 'azure', 'intelligence artificielle'] ; chiffres_ok=True mot_cle_ok=True",
+      "elapsed_s": 17.1
+    }
+  ]
+}
